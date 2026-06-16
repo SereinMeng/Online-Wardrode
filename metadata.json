@@ -1,0 +1,6 @@
+{
+  "name": "Aura Wardrobe",
+  "description": "Aura Wardrobe: A clean, minimalist digital sanctuary for organizing your wardrobe, curating styles, and getting personalized fashion recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
